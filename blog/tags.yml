@@ -16,10 +16,10 @@ docusaurus:
 hola:
   label: Hola
   permalink: /hola
-  description: Hola tag description
-  
- version:
-    label: Version 
-    permalink: /version
-    description: Para informar de las nuevas versiones
+  description: Hola tag description 
+
+version:
+  label: Version 
+  permalink: /version
+  description: Para informar de las nuevas versiones
     
