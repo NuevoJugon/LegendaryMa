@@ -1,9 +1,7 @@
 ---
-
 id: Ambush
 title: Palabra clave Ambush
-tags:[core]
-
+tags: [core]
 ---
 
 # Ambush
