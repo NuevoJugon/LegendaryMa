@@ -1,6 +1,15 @@
+---
+
+id: Ambush
+title: Palabra clave Ambush
+tags:[core]
+
+---
 
 # Ambush
 
-Cuando reveles una carta de Villano con la palabra clave **Ambush**, sigue inmediatamente las instrucciones de la carta.
 
-Recuerda: si un Villano huye cuando este nuevo aparece, realiza todos los efectos de Escape del Villano huído antes de llevar a cabo cualquier efecto **Ambush** del nuevo Villano.
+Los efectos de **Ambush** de Villano se activan cuando la carta se juega en ciudad desde el _Mazo de Villano_.
+Los efectos de **Ambush** de Héroe se pueden activar cuando la carta entra en el **HQ** si el jugador actual tiene una carta de la clase enumerada (En mano, jugada o controlada).
+
+Recuerda: si un Villano huye cuando este nuevo aparece, resuelve la palabra clave **Escape** del Villano huído antes de llevar a cabo cualquier efecto **Ambush** del nuevo Villano.
