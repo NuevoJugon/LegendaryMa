@@ -1,10 +1,10 @@
 ---
-id: Ambush
-title: Ambush
+id: HQ
+title: HQ
 tags: [core]
 ---
 
-# Ambush
+# HQ
 
 
 Los efectos de **Ambush** de Villano se activan cuando la carta se juega en ciudad desde el _Mazo de Villano_.
