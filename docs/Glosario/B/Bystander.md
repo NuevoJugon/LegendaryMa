@@ -6,4 +6,6 @@ tags: [core]
 
 # Bystander
 
-To-Do
+Civil.
+
+Cuando se roban del **Mazo de Villanos**
