@@ -12,6 +12,3 @@ Los efectos de **Ambush** de Héroe se pueden activar cuando la carta entra en e
 
 Recuerda: si un Villano huye cuando este nuevo aparece, resuelve la palabra clave [Escape](../E/Escape.md) del Villano huído antes de llevar a cabo cualquier efecto **Ambush** del nuevo Villano.
 
-Esto es una [Prueba] (www.google.es)
-
-
